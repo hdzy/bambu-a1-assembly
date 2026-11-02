@@ -1,0 +1,80 @@
+[
+  {
+    "file": "stl/01-base.stl",
+    "triangles": 444,
+    "dimensions_mm": [
+      90.0,
+      250.0,
+      4.0
+    ],
+    "volume_mm3": 87653.483,
+    "closed": true,
+    "oriented": true,
+    "connected_components": 1
+  },
+  {
+    "file": "stl/02-wall-left.stl",
+    "triangles": 76,
+    "dimensions_mm": [
+      238.0,
+      49.0,
+      4.0
+    ],
+    "volume_mm3": 43326.0,
+    "closed": true,
+    "oriented": true,
+    "connected_components": 1
+  },
+  {
+    "file": "stl/03-wall-right.stl",
+    "triangles": 76,
+    "dimensions_mm": [
+      238.0,
+      49.0,
+      4.0
+    ],
+    "volume_mm3": 43326.0,
+    "closed": true,
+    "oriented": true,
+    "connected_components": 1
+  },
+  {
+    "file": "stl/04-disc.stl",
+    "triangles": 2040,
+    "dimensions_mm": [
+      67.5,
+      67.5,
+      4.0
+    ],
+    "volume_mm3": 12374.995,
+    "closed": true,
+    "oriented": true,
+    "connected_components": 1
+  },
+  {
+    "file": "stl/05-brace-left.stl",
+    "triangles": 148,
+    "dimensions_mm": [
+      27.0,
+      32.0,
+      4.0
+    ],
+    "volume_mm3": 959.363,
+    "closed": true,
+    "oriented": true,
+    "connected_components": 1
+  },
+  {
+    "file": "stl/06-brace-right.stl",
+    "triangles": 148,
+    "dimensions_mm": [
+      27.0,
+      32.0,
+      4.0
+    ],
+    "volume_mm3": 959.363,
+    "closed": true,
+    "oriented": true,
+    "connected_components": 1
+  }
+]

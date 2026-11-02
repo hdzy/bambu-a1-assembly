@@ -1,0 +1,32 @@
+[
+  {
+    "image": 1,
+    "file": "01-base-photo.png",
+    "sha256": "d32694414e64ae3d963ad17752b6780e832c1fa4420ffd5babaf9f4f2c5467fd"
+  },
+  {
+    "image": 2,
+    "file": "02-front-photo.png",
+    "sha256": "0eaab4c230f9c8439b7d2dfecb81bae7fe71680db70546f6d8d98e92bf2348e6"
+  },
+  {
+    "image": 3,
+    "file": "03-drawing.png",
+    "sha256": "9e0b4ce163c6f25784b708667b9b954b8047615c6dcfe0b01c14cc1cdc73c14c"
+  },
+  {
+    "image": 4,
+    "file": "04-drawing-duplicate.png",
+    "sha256": "9e0b4ce163c6f25784b708667b9b954b8047615c6dcfe0b01c14cc1cdc73c14c"
+  },
+  {
+    "image": 5,
+    "file": "05-assembly-photo.png",
+    "sha256": "937af2158cdeadeb82dbe62f116be4d3ea440b5169954456de48f2cd6aac80b2"
+  },
+  {
+    "image": 6,
+    "file": "06-assembly-photo.png",
+    "sha256": "b1ea5c6b0990f5d590331477d6d212c57353e1eb68f6c3a44145dbc6b07474d2"
+  }
+]

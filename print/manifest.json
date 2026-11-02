@@ -1,0 +1,90 @@
+{
+  "units": "millimeter",
+  "parameters": {
+    "thickness": 4,
+    "clearance": 0.2,
+    "diameter": 67.5
+  },
+  "printer": "Bambu Lab A1",
+  "material": "PLA",
+  "parts": [
+    {
+      "id": "base",
+      "name": "Основание",
+      "file": "stl/01-base.stl",
+      "quantity": 1,
+      "dimensions_mm": [
+        90,
+        250,
+        4
+      ],
+      "triangles": 444,
+      "sha256": "a700a80533028822f7128e3d4c7f23915d997fe27564b7daed4ddc0cf5e5b080"
+    },
+    {
+      "id": "wall-left",
+      "name": "Левая стенка",
+      "file": "stl/02-wall-left.stl",
+      "quantity": 1,
+      "dimensions_mm": [
+        238,
+        49,
+        4
+      ],
+      "triangles": 76,
+      "sha256": "3afd503ae8f1513c6e747f3810bc39f0c45572d087080fcd2e1813e39bd10645"
+    },
+    {
+      "id": "wall-right",
+      "name": "Правая стенка",
+      "file": "stl/03-wall-right.stl",
+      "quantity": 1,
+      "dimensions_mm": [
+        238,
+        49,
+        4
+      ],
+      "triangles": 76,
+      "sha256": "3afd503ae8f1513c6e747f3810bc39f0c45572d087080fcd2e1813e39bd10645"
+    },
+    {
+      "id": "disc",
+      "name": "Торцевой диск",
+      "file": "stl/04-disc.stl",
+      "quantity": 1,
+      "dimensions_mm": [
+        67.5,
+        67.5,
+        4
+      ],
+      "triangles": 2040,
+      "sha256": "872e88d5782c61553e3fc76ba7dfa2c1b9db8c309aaacfa3ae247d948e429b2b"
+    },
+    {
+      "id": "brace-left",
+      "name": "Левый упор",
+      "file": "stl/05-brace-left.stl",
+      "quantity": 1,
+      "dimensions_mm": [
+        27,
+        32,
+        4
+      ],
+      "triangles": 148,
+      "sha256": "0bcfdaafd5557a6e012e37891b95eba0cb320d332a3bc597dfd31477d700648c"
+    },
+    {
+      "id": "brace-right",
+      "name": "Правый упор",
+      "file": "stl/06-brace-right.stl",
+      "quantity": 1,
+      "dimensions_mm": [
+        27,
+        32,
+        4
+      ],
+      "triangles": 148,
+      "sha256": "0bcfdaafd5557a6e012e37891b95eba0cb320d332a3bc597dfd31477d700648c"
+    }
+  ]
+}
